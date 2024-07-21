@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tolarmute.github.io/sitemap
+Sitemap: https://tolarmute.github.io/app/sitemap
+Sitemap: https://tolarmute.github.io/assets/sitemap
+Sitemap: https://tolarmute.github.io/css/sitemap
+Sitemap: https://tolarmute.github.io/includes/sitemap
+Sitemap: https://tolarmute.github.io/item/sitemap
+Sitemap: https://tolarmute.github.io/src/sitemap
